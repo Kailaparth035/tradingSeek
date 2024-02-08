@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>307099534870-9if8sj6b5jb645d7tqtvel9cf96j5cp9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.307099534870-9if8sj6b5jb645d7tqtvel9cf96j5cp9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>307099534870-hha24hdj8qtp9s2qbok3nu56mruqlmk6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDSl77F5ndmrE_a7sr2GL0OQqeZwWFnrqs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>307099534870</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>net.tradingseek.app</string>
+	<key>PROJECT_ID</key>
+	<string>tradingseek-3a85a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tradingseek-3a85a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:307099534870:ios:3d3ac6826c453151195737</string>
+</dict>
+</plist>

@@ -1,0 +1,1454 @@
+[
+  {
+    "code": "AF",
+    "combineCountycode": "AF +93",
+    "dial_code": "+93",
+    "name": "Afghanistan"
+  },
+  {
+    "code": "AX",
+    "combineCountycode": "AX +358",
+    "dial_code": "+358",
+    "name": "Aland Islands"
+  },
+  {
+    "code": "AL",
+    "combineCountycode": "AL +355",
+    "dial_code": "+355",
+    "name": "Albania"
+  },
+  {
+    "code": "DZ",
+    "combineCountycode": "DZ +213",
+    "dial_code": "+213",
+    "name": "Algeria"
+  },
+  {
+    "code": "AS",
+    "combineCountycode": "AS +1684",
+    "dial_code": "+1684",
+    "name": "AmericanSamoa"
+  },
+  {
+    "code": "AD",
+    "combineCountycode": "AD +376",
+    "dial_code": "+376",
+    "name": "Andorra"
+  },
+  {
+    "code": "AO",
+    "combineCountycode": "AO +244",
+    "dial_code": "+244",
+    "name": "Angola"
+  },
+  {
+    "code": "AI",
+    "combineCountycode": "AI +1264",
+    "dial_code": "+1264",
+    "name": "Anguilla"
+  },
+  {
+    "code": "AQ",
+    "combineCountycode": "AQ +672",
+    "dial_code": "+672",
+    "name": "Antarctica"
+  },
+  {
+    "code": "AG",
+    "combineCountycode": "AG +1268",
+    "dial_code": "+1268",
+    "name": "Antigua and Barbuda"
+  },
+  {
+    "code": "AR",
+    "combineCountycode": "AR +54",
+    "dial_code": "+54",
+    "name": "Argentina"
+  },
+  {
+    "code": "AM",
+    "combineCountycode": "AM +374",
+    "dial_code": "+374",
+    "name": "Armenia"
+  },
+  {
+    "code": "AW",
+    "combineCountycode": "AW +297",
+    "dial_code": "+297",
+    "name": "Aruba"
+  },
+  {
+    "code": "AU",
+    "combineCountycode": "AU +61",
+    "dial_code": "+61",
+    "name": "Australia"
+  },
+  {
+    "code": "AT",
+    "combineCountycode": "AT +43",
+    "dial_code": "+43",
+    "name": "Austria"
+  },
+  {
+    "code": "AZ",
+    "combineCountycode": "AZ +994",
+    "dial_code": "+994",
+    "name": "Azerbaijan"
+  },
+  {
+    "code": "BS",
+    "combineCountycode": "BS +1242",
+    "dial_code": "+1242",
+    "name": "Bahamas"
+  },
+  {
+    "code": "BH",
+    "combineCountycode": "BH +973",
+    "dial_code": "+973",
+    "name": "Bahrain"
+  },
+  {
+    "code": "BD",
+    "combineCountycode": "BD +880",
+    "dial_code": "+880",
+    "name": "Bangladesh"
+  },
+  {
+    "code": "BB",
+    "combineCountycode": "BB +1246",
+    "dial_code": "+1246",
+    "name": "Barbados"
+  },
+  {
+    "code": "BY",
+    "combineCountycode": "BY +375",
+    "dial_code": "+375",
+    "name": "Belarus"
+  },
+  {
+    "code": "BE",
+    "combineCountycode": "BE +32",
+    "dial_code": "+32",
+    "name": "Belgium"
+  },
+  {
+    "code": "BZ",
+    "combineCountycode": "BZ +501",
+    "dial_code": "+501",
+    "name": "Belize"
+  },
+  {
+    "code": "BJ",
+    "combineCountycode": "BJ +229",
+    "dial_code": "+229",
+    "name": "Benin"
+  },
+  {
+    "code": "BM",
+    "combineCountycode": "BM +1441",
+    "dial_code": "+1441",
+    "name": "Bermuda"
+  },
+  {
+    "code": "BT",
+    "combineCountycode": "BT +975",
+    "dial_code": "+975",
+    "name": "Bhutan"
+  },
+  {
+    "code": "BO",
+    "combineCountycode": "BO +591",
+    "dial_code": "+591",
+    "name": "Bolivia, Plurinational State of"
+  },
+  {
+    "code": "BA",
+    "combineCountycode": "BA +387",
+    "dial_code": "+387",
+    "name": "Bosnia and Herzegovina"
+  },
+  {
+    "code": "BW",
+    "combineCountycode": "BW +267",
+    "dial_code": "+267",
+    "name": "Botswana"
+  },
+  {
+    "code": "BR",
+    "combineCountycode": "BR +55",
+    "dial_code": "+55",
+    "name": "Brazil"
+  },
+  {
+    "code": "IO",
+    "combineCountycode": "IO +246",
+    "dial_code": "+246",
+    "name": "British Indian Ocean Territory"
+  },
+  {
+    "code": "BN",
+    "combineCountycode": "BN +673",
+    "dial_code": "+673",
+    "name": "Brunei Darussalam"
+  },
+  {
+    "code": "BG",
+    "combineCountycode": "BG +359",
+    "dial_code": "+359",
+    "name": "Bulgaria"
+  },
+  {
+    "code": "BF",
+    "combineCountycode": "BF +226",
+    "dial_code": "+226",
+    "name": "Burkina Faso"
+  },
+  {
+    "code": "BI",
+    "combineCountycode": "BI +257",
+    "dial_code": "+257",
+    "name": "Burundi"
+  },
+  {
+    "code": "KH",
+    "combineCountycode": "KH +855",
+    "dial_code": "+855",
+    "name": "Cambodia"
+  },
+  {
+    "code": "CM",
+    "combineCountycode": "CM +237",
+    "dial_code": "+237",
+    "name": "Cameroon"
+  },
+  {
+    "code": "CA",
+    "combineCountycode": "CA +1",
+    "dial_code": "+1",
+    "name": "Canada"
+  },
+  {
+    "code": "CV",
+    "combineCountycode": "CV +238",
+    "dial_code": "+238",
+    "name": "Cape Verde"
+  },
+  {
+    "code": "KY",
+    "combineCountycode": "KY + 345",
+    "dial_code": "+ 345",
+    "name": "Cayman Islands"
+  },
+  {
+    "code": "CF",
+    "combineCountycode": "CF +236",
+    "dial_code": "+236",
+    "name": "Central African Republic"
+  },
+  {
+    "code": "TD",
+    "combineCountycode": "TD +235",
+    "dial_code": "+235",
+    "name": "Chad"
+  },
+  {
+    "code": "CL",
+    "combineCountycode": "CL +56",
+    "dial_code": "+56",
+    "name": "Chile"
+  },
+  {
+    "code": "CN",
+    "combineCountycode": "CN +86",
+    "dial_code": "+86",
+    "name": "China"
+  },
+  {
+    "code": "CX",
+    "combineCountycode": "CX +61",
+    "dial_code": "+61",
+    "name": "Christmas Island"
+  },
+  {
+    "code": "CC",
+    "combineCountycode": "CC +61",
+    "dial_code": "+61",
+    "name": "Cocos (Keeling) Islands"
+  },
+  {
+    "code": "CO",
+    "combineCountycode": "CO +57",
+    "dial_code": "+57",
+    "name": "Colombia"
+  },
+  {
+    "code": "KM",
+    "combineCountycode": "KM +269",
+    "dial_code": "+269",
+    "name": "Comoros"
+  },
+  {
+    "code": "CG",
+    "combineCountycode": "CG +242",
+    "dial_code": "+242",
+    "name": "Congo"
+  },
+  {
+    "code": "CD",
+    "combineCountycode": "CD +243",
+    "dial_code": "+243",
+    "name": "Congo, The Democratic Republic of the Congo"
+  },
+  {
+    "code": "CK",
+    "combineCountycode": "CK +682",
+    "dial_code": "+682",
+    "name": "Cook Islands"
+  },
+  {
+    "code": "CR",
+    "combineCountycode": "CR +506",
+    "dial_code": "+506",
+    "name": "Costa Rica"
+  },
+  {
+    "code": "CI",
+    "combineCountycode": "CI +225",
+    "dial_code": "+225",
+    "name": "Cote d'Ivoire"
+  },
+  {
+    "code": "HR",
+    "combineCountycode": "HR +385",
+    "dial_code": "+385",
+    "name": "Croatia"
+  },
+  {
+    "code": "CU",
+    "combineCountycode": "CU +53",
+    "dial_code": "+53",
+    "name": "Cuba"
+  },
+  {
+    "code": "CY",
+    "combineCountycode": "CY +357",
+    "dial_code": "+357",
+    "name": "Cyprus"
+  },
+  {
+    "code": "CZ",
+    "combineCountycode": "CZ +420",
+    "dial_code": "+420",
+    "name": "Czech Republic"
+  },
+  {
+    "code": "DK",
+    "combineCountycode": "DK +45",
+    "dial_code": "+45",
+    "name": "Denmark"
+  },
+  {
+    "code": "DJ",
+    "combineCountycode": "DJ +253",
+    "dial_code": "+253",
+    "name": "Djibouti"
+  },
+  {
+    "code": "DM",
+    "combineCountycode": "DM +1767",
+    "dial_code": "+1767",
+    "name": "Dominica"
+  },
+  {
+    "code": "DO",
+    "combineCountycode": "DO +1849",
+    "dial_code": "+1849",
+    "name": "Dominican Republic"
+  },
+  {
+    "code": "EC",
+    "combineCountycode": "EC +593",
+    "dial_code": "+593",
+    "name": "Ecuador"
+  },
+  {
+    "code": "EG",
+    "combineCountycode": "EG +20",
+    "dial_code": "+20",
+    "name": "Egypt"
+  },
+  {
+    "code": "SV",
+    "combineCountycode": "SV +503",
+    "dial_code": "+503",
+    "name": "El Salvador"
+  },
+  {
+    "code": "GQ",
+    "combineCountycode": "GQ +240",
+    "dial_code": "+240",
+    "name": "Equatorial Guinea"
+  },
+  {
+    "code": "ER",
+    "combineCountycode": "ER +291",
+    "dial_code": "+291",
+    "name": "Eritrea"
+  },
+  {
+    "code": "EE",
+    "combineCountycode": "EE +372",
+    "dial_code": "+372",
+    "name": "Estonia"
+  },
+  {
+    "code": "ET",
+    "combineCountycode": "ET +251",
+    "dial_code": "+251",
+    "name": "Ethiopia"
+  },
+  {
+    "code": "FK",
+    "combineCountycode": "FK +500",
+    "dial_code": "+500",
+    "name": "Falkland Islands (Malvinas)"
+  },
+  {
+    "code": "FO",
+    "combineCountycode": "FO +298",
+    "dial_code": "+298",
+    "name": "Faroe Islands"
+  },
+  {
+    "code": "FJ",
+    "combineCountycode": "FJ +679",
+    "dial_code": "+679",
+    "name": "Fiji"
+  },
+  {
+    "code": "FI",
+    "combineCountycode": "FI +358",
+    "dial_code": "+358",
+    "name": "Finland"
+  },
+  {
+    "code": "FR",
+    "combineCountycode": "FR +33",
+    "dial_code": "+33",
+    "name": "France"
+  },
+  {
+    "code": "GF",
+    "combineCountycode": "GF +594",
+    "dial_code": "+594",
+    "name": "French Guiana"
+  },
+  {
+    "code": "PF",
+    "combineCountycode": "PF +689",
+    "dial_code": "+689",
+    "name": "French Polynesia"
+  },
+  {
+    "code": "GA",
+    "combineCountycode": "GA +241",
+    "dial_code": "+241",
+    "name": "Gabon"
+  },
+  {
+    "code": "GM",
+    "combineCountycode": "GM +220",
+    "dial_code": "+220",
+    "name": "Gambia"
+  },
+  {
+    "code": "GE",
+    "combineCountycode": "GE +995",
+    "dial_code": "+995",
+    "name": "Georgia"
+  },
+  {
+    "code": "DE",
+    "combineCountycode": "DE +49",
+    "dial_code": "+49",
+    "name": "Germany"
+  },
+  {
+    "code": "GH",
+    "combineCountycode": "GH +233",
+    "dial_code": "+233",
+    "name": "Ghana"
+  },
+  {
+    "code": "GI",
+    "combineCountycode": "GI +350",
+    "dial_code": "+350",
+    "name": "Gibraltar"
+  },
+  {
+    "code": "GR",
+    "combineCountycode": "GR +30",
+    "dial_code": "+30",
+    "name": "Greece"
+  },
+  {
+    "code": "GL",
+    "combineCountycode": "GL +299",
+    "dial_code": "+299",
+    "name": "Greenland"
+  },
+  {
+    "code": "GD",
+    "combineCountycode": "GD +1473",
+    "dial_code": "+1473",
+    "name": "Grenada"
+  },
+  {
+    "code": "GP",
+    "combineCountycode": "GP +590",
+    "dial_code": "+590",
+    "name": "Guadeloupe"
+  },
+  {
+    "code": "GU",
+    "combineCountycode": "GU +1671",
+    "dial_code": "+1671",
+    "name": "Guam"
+  },
+  {
+    "code": "GT",
+    "combineCountycode": "GT +502",
+    "dial_code": "+502",
+    "name": "Guatemala"
+  },
+  {
+    "code": "GG",
+    "combineCountycode": "GG +44",
+    "dial_code": "+44",
+    "name": "Guernsey"
+  },
+  {
+    "code": "GN",
+    "combineCountycode": "GN +224",
+    "dial_code": "+224",
+    "name": "Guinea"
+  },
+  {
+    "code": "GW",
+    "combineCountycode": "GW +245",
+    "dial_code": "+245",
+    "name": "Guinea-Bissau"
+  },
+  {
+    "code": "GY",
+    "combineCountycode": "GY +595",
+    "dial_code": "+595",
+    "name": "Guyana"
+  },
+  {
+    "code": "HT",
+    "combineCountycode": "HT +509",
+    "dial_code": "+509",
+    "name": "Haiti"
+  },
+  {
+    "code": "VA",
+    "combineCountycode": "VA +379",
+    "dial_code": "+379",
+    "name": "Holy See (Vatican City State)"
+  },
+  {
+    "code": "HN",
+    "combineCountycode": "HN +504",
+    "dial_code": "+504",
+    "name": "Honduras"
+  },
+  {
+    "code": "HK",
+    "combineCountycode": "HK +852",
+    "dial_code": "+852",
+    "name": "Hong Kong"
+  },
+  {
+    "code": "HU",
+    "combineCountycode": "HU +36",
+    "dial_code": "+36",
+    "name": "Hungary"
+  },
+  {
+    "code": "IS",
+    "combineCountycode": "IS +354",
+    "dial_code": "+354",
+    "name": "Iceland"
+  },
+  {
+    "code": "IN",
+    "combineCountycode": "IN +91",
+    "dial_code": "+91",
+    "name": "India"
+  },
+  {
+    "code": "ID",
+    "combineCountycode": "ID +62",
+    "dial_code": "+62",
+    "name": "Indonesia"
+  },
+  {
+    "code": "IR",
+    "combineCountycode": "IR +98",
+    "dial_code": "+98",
+    "name": "Iran, Islamic Republic of Persian Gulf"
+  },
+  {
+    "code": "IQ",
+    "combineCountycode": "IQ +964",
+    "dial_code": "+964",
+    "name": "Iraq"
+  },
+  {
+    "code": "IE",
+    "combineCountycode": "IE +353",
+    "dial_code": "+353",
+    "name": "Ireland"
+  },
+  {
+    "code": "IM",
+    "combineCountycode": "IM +44",
+    "dial_code": "+44",
+    "name": "Isle of Man"
+  },
+  {
+    "code": "IL",
+    "combineCountycode": "IL +972",
+    "dial_code": "+972",
+    "name": "Israel"
+  },
+  {
+    "code": "IT",
+    "combineCountycode": "IT +39",
+    "dial_code": "+39",
+    "name": "Italy"
+  },
+  {
+    "code": "JM",
+    "combineCountycode": "JM +1876",
+    "dial_code": "+1876",
+    "name": "Jamaica"
+  },
+  {
+    "code": "JP",
+    "combineCountycode": "JP +81",
+    "dial_code": "+81",
+    "name": "Japan"
+  },
+  {
+    "code": "JE",
+    "combineCountycode": "JE +44",
+    "dial_code": "+44",
+    "name": "Jersey"
+  },
+  {
+    "code": "JO",
+    "combineCountycode": "JO +962",
+    "dial_code": "+962",
+    "name": "Jordan"
+  },
+  {
+    "code": "KZ",
+    "combineCountycode": "KZ +77",
+    "dial_code": "+77",
+    "name": "Kazakhstan"
+  },
+  {
+    "code": "KE",
+    "combineCountycode": "KE +254",
+    "dial_code": "+254",
+    "name": "Kenya"
+  },
+  {
+    "code": "KI",
+    "combineCountycode": "KI +686",
+    "dial_code": "+686",
+    "name": "Kiribati"
+  },
+  {
+    "code": "KP",
+    "combineCountycode": "KP +850",
+    "dial_code": "+850",
+    "name": "Korea, Democratic People's Republic of Korea"
+  },
+  {
+    "code": "KR",
+    "combineCountycode": "KR +82",
+    "dial_code": "+82",
+    "name": "Korea, Republic of South Korea"
+  },
+  {
+    "code": "KW",
+    "combineCountycode": "KW +965",
+    "dial_code": "+965",
+    "name": "Kuwait"
+  },
+  {
+    "code": "KG",
+    "combineCountycode": "KG +996",
+    "dial_code": "+996",
+    "name": "Kyrgyzstan"
+  },
+  {
+    "code": "LA",
+    "combineCountycode": "LA +856",
+    "dial_code": "+856",
+    "name": "Laos"
+  },
+  {
+    "code": "LV",
+    "combineCountycode": "LV +371",
+    "dial_code": "+371",
+    "name": "Latvia"
+  },
+  {
+    "code": "LB",
+    "combineCountycode": "LB +961",
+    "dial_code": "+961",
+    "name": "Lebanon"
+  },
+  {
+    "code": "LS",
+    "combineCountycode": "LS +266",
+    "dial_code": "+266",
+    "name": "Lesotho"
+  },
+  {
+    "code": "LR",
+    "combineCountycode": "LR +231",
+    "dial_code": "+231",
+    "name": "Liberia"
+  },
+  {
+    "code": "LY",
+    "combineCountycode": "LY +218",
+    "dial_code": "+218",
+    "name": "Libyan Arab Jamahiriya"
+  },
+  {
+    "code": "LI",
+    "combineCountycode": "LI +423",
+    "dial_code": "+423",
+    "name": "Liechtenstein"
+  },
+  {
+    "code": "LT",
+    "combineCountycode": "LT +370",
+    "dial_code": "+370",
+    "name": "Lithuania"
+  },
+  {
+    "code": "LU",
+    "combineCountycode": "LU +352",
+    "dial_code": "+352",
+    "name": "Luxembourg"
+  },
+  {
+    "code": "MO",
+    "combineCountycode": "MO +853",
+    "dial_code": "+853",
+    "name": "Macao"
+  },
+  {
+    "code": "MK",
+    "combineCountycode": "MK +389",
+    "dial_code": "+389",
+    "name": "Macedonia"
+  },
+  {
+    "code": "MG",
+    "combineCountycode": "MG +261",
+    "dial_code": "+261",
+    "name": "Madagascar"
+  },
+  {
+    "code": "MW",
+    "combineCountycode": "MW +265",
+    "dial_code": "+265",
+    "name": "Malawi"
+  },
+  {
+    "code": "MY",
+    "combineCountycode": "MY +60",
+    "dial_code": "+60",
+    "name": "Malaysia"
+  },
+  {
+    "code": "MV",
+    "combineCountycode": "MV +960",
+    "dial_code": "+960",
+    "name": "Maldives"
+  },
+  {
+    "code": "ML",
+    "combineCountycode": "ML +223",
+    "dial_code": "+223",
+    "name": "Mali"
+  },
+  {
+    "code": "MT",
+    "combineCountycode": "MT +356",
+    "dial_code": "+356",
+    "name": "Malta"
+  },
+  {
+    "code": "MH",
+    "combineCountycode": "MH +692",
+    "dial_code": "+692",
+    "name": "Marshall Islands"
+  },
+  {
+    "code": "MQ",
+    "combineCountycode": "MQ +596",
+    "dial_code": "+596",
+    "name": "Martinique"
+  },
+  {
+    "code": "MR",
+    "combineCountycode": "MR +222",
+    "dial_code": "+222",
+    "name": "Mauritania"
+  },
+  {
+    "code": "MU",
+    "combineCountycode": "MU +230",
+    "dial_code": "+230",
+    "name": "Mauritius"
+  },
+  {
+    "code": "YT",
+    "combineCountycode": "YT +262",
+    "dial_code": "+262",
+    "name": "Mayotte"
+  },
+  {
+    "code": "MX",
+    "combineCountycode": "MX +52",
+    "dial_code": "+52",
+    "name": "Mexico"
+  },
+  {
+    "code": "FM",
+    "combineCountycode": "FM +691",
+    "dial_code": "+691",
+    "name": "Micronesia, Federated States of Micronesia"
+  },
+  {
+    "code": "MD",
+    "combineCountycode": "MD +373",
+    "dial_code": "+373",
+    "name": "Moldova"
+  },
+  {
+    "code": "MC",
+    "combineCountycode": "MC +377",
+    "dial_code": "+377",
+    "name": "Monaco"
+  },
+  {
+    "code": "MN",
+    "combineCountycode": "MN +976",
+    "dial_code": "+976",
+    "name": "Mongolia"
+  },
+  {
+    "code": "ME",
+    "combineCountycode": "ME +382",
+    "dial_code": "+382",
+    "name": "Montenegro"
+  },
+  {
+    "code": "MS",
+    "combineCountycode": "MS +1664",
+    "dial_code": "+1664",
+    "name": "Montserrat"
+  },
+  {
+    "code": "MA",
+    "combineCountycode": "MA +212",
+    "dial_code": "+212",
+    "name": "Morocco"
+  },
+  {
+    "code": "MZ",
+    "combineCountycode": "MZ +258",
+    "dial_code": "+258",
+    "name": "Mozambique"
+  },
+  {
+    "code": "MM",
+    "combineCountycode": "MM +95",
+    "dial_code": "+95",
+    "name": "Myanmar"
+  },
+  {
+    "code": "NA",
+    "combineCountycode": "NA +264",
+    "dial_code": "+264",
+    "name": "Namibia"
+  },
+  {
+    "code": "NR",
+    "combineCountycode": "NR +674",
+    "dial_code": "+674",
+    "name": "Nauru"
+  },
+  {
+    "code": "NP",
+    "combineCountycode": "NP +977",
+    "dial_code": "+977",
+    "name": "Nepal"
+  },
+  {
+    "code": "NL",
+    "combineCountycode": "NL +31",
+    "dial_code": "+31",
+    "name": "Netherlands"
+  },
+  {
+    "code": "AN",
+    "combineCountycode": "AN +599",
+    "dial_code": "+599",
+    "name": "Netherlands Antilles"
+  },
+  {
+    "code": "NC",
+    "combineCountycode": "NC +687",
+    "dial_code": "+687",
+    "name": "New Caledonia"
+  },
+  {
+    "code": "NZ",
+    "combineCountycode": "NZ +64",
+    "dial_code": "+64",
+    "name": "New Zealand"
+  },
+  {
+    "code": "NI",
+    "combineCountycode": "NI +505",
+    "dial_code": "+505",
+    "name": "Nicaragua"
+  },
+  {
+    "code": "NE",
+    "combineCountycode": "NE +227",
+    "dial_code": "+227",
+    "name": "Niger"
+  },
+  {
+    "code": "NG",
+    "combineCountycode": "NG +234",
+    "dial_code": "+234",
+    "name": "Nigeria"
+  },
+  {
+    "code": "NU",
+    "combineCountycode": "NU +683",
+    "dial_code": "+683",
+    "name": "Niue"
+  },
+  {
+    "code": "NF",
+    "combineCountycode": "NF +672",
+    "dial_code": "+672",
+    "name": "Norfolk Island"
+  },
+  {
+    "code": "MP",
+    "combineCountycode": "MP +1670",
+    "dial_code": "+1670",
+    "name": "Northern Mariana Islands"
+  },
+  {
+    "code": "NO",
+    "combineCountycode": "NO +47",
+    "dial_code": "+47",
+    "name": "Norway"
+  },
+  {
+    "code": "OM",
+    "combineCountycode": "OM +968",
+    "dial_code": "+968",
+    "name": "Oman"
+  },
+  {
+    "code": "PK",
+    "combineCountycode": "PK +92",
+    "dial_code": "+92",
+    "name": "Pakistan"
+  },
+  {
+    "code": "PW",
+    "combineCountycode": "PW +680",
+    "dial_code": "+680",
+    "name": "Palau"
+  },
+  {
+    "code": "PS",
+    "combineCountycode": "PS +970",
+    "dial_code": "+970",
+    "name": "Palestinian Territory, Occupied"
+  },
+  {
+    "code": "PA",
+    "combineCountycode": "PA +507",
+    "dial_code": "+507",
+    "name": "Panama"
+  },
+  {
+    "code": "PG",
+    "combineCountycode": "PG +675",
+    "dial_code": "+675",
+    "name": "Papua New Guinea"
+  },
+  {
+    "code": "PY",
+    "combineCountycode": "PY +595",
+    "dial_code": "+595",
+    "name": "Paraguay"
+  },
+  {
+    "code": "PE",
+    "combineCountycode": "PE +51",
+    "dial_code": "+51",
+    "name": "Peru"
+  },
+  {
+    "code": "PH",
+    "combineCountycode": "PH +63",
+    "dial_code": "+63",
+    "name": "Philippines"
+  },
+  {
+    "code": "PN",
+    "combineCountycode": "PN +872",
+    "dial_code": "+872",
+    "name": "Pitcairn"
+  },
+  {
+    "code": "PL",
+    "combineCountycode": "PL +48",
+    "dial_code": "+48",
+    "name": "Poland"
+  },
+  {
+    "code": "PT",
+    "combineCountycode": "PT +351",
+    "dial_code": "+351",
+    "name": "Portugal"
+  },
+  {
+    "code": "PR",
+    "combineCountycode": "PR +1939",
+    "dial_code": "+1939",
+    "name": "Puerto Rico"
+  },
+  {
+    "code": "QA",
+    "combineCountycode": "QA +974",
+    "dial_code": "+974",
+    "name": "Qatar"
+  },
+  {
+    "code": "RO",
+    "combineCountycode": "RO +40",
+    "dial_code": "+40",
+    "name": "Romania"
+  },
+  {
+    "code": "RU",
+    "combineCountycode": "RU +7",
+    "dial_code": "+7",
+    "name": "Russia"
+  },
+  {
+    "code": "RW",
+    "combineCountycode": "RW +250",
+    "dial_code": "+250",
+    "name": "Rwanda"
+  },
+  {
+    "code": "RE",
+    "combineCountycode": "RE +262",
+    "dial_code": "+262",
+    "name": "Reunion"
+  },
+  {
+    "code": "BL",
+    "combineCountycode": "BL +590",
+    "dial_code": "+590",
+    "name": "Saint Barthelemy"
+  },
+  {
+    "code": "SH",
+    "combineCountycode": "SH +290",
+    "dial_code": "+290",
+    "name": "Saint Helena, Ascension and Tristan Da Cunha"
+  },
+  {
+    "code": "KN",
+    "combineCountycode": "KN +1869",
+    "dial_code": "+1869",
+    "name": "Saint Kitts and Nevis"
+  },
+  {
+    "code": "LC",
+    "combineCountycode": "LC +1758",
+    "dial_code": "+1758",
+    "name": "Saint Lucia"
+  },
+  {
+    "code": "MF",
+    "combineCountycode": "MF +590",
+    "dial_code": "+590",
+    "name": "Saint Martin"
+  },
+  {
+    "code": "PM",
+    "combineCountycode": "PM +508",
+    "dial_code": "+508",
+    "name": "Saint Pierre and Miquelon"
+  },
+  {
+    "code": "VC",
+    "combineCountycode": "VC +1784",
+    "dial_code": "+1784",
+    "name": "Saint Vincent and the Grenadines"
+  },
+  {
+    "code": "WS",
+    "combineCountycode": "WS +685",
+    "dial_code": "+685",
+    "name": "Samoa"
+  },
+  {
+    "code": "SM",
+    "combineCountycode": "SM +378",
+    "dial_code": "+378",
+    "name": "San Marino"
+  },
+  {
+    "code": "ST",
+    "combineCountycode": "ST +239",
+    "dial_code": "+239",
+    "name": "Sao Tome and Principe"
+  },
+  {
+    "code": "SA",
+    "combineCountycode": "SA +966",
+    "dial_code": "+966",
+    "name": "Saudi Arabia"
+  },
+  {
+    "code": "SN",
+    "combineCountycode": "SN +221",
+    "dial_code": "+221",
+    "name": "Senegal"
+  },
+  {
+    "code": "RS",
+    "combineCountycode": "RS +381",
+    "dial_code": "+381",
+    "name": "Serbia"
+  },
+  {
+    "code": "SC",
+    "combineCountycode": "SC +248",
+    "dial_code": "+248",
+    "name": "Seychelles"
+  },
+  {
+    "code": "SL",
+    "combineCountycode": "SL +232",
+    "dial_code": "+232",
+    "name": "Sierra Leone"
+  },
+  {
+    "code": "SG",
+    "combineCountycode": "SG +65",
+    "dial_code": "+65",
+    "name": "Singapore"
+  },
+  {
+    "code": "SK",
+    "combineCountycode": "SK +421",
+    "dial_code": "+421",
+    "name": "Slovakia"
+  },
+  {
+    "code": "SI",
+    "combineCountycode": "SI +386",
+    "dial_code": "+386",
+    "name": "Slovenia"
+  },
+  {
+    "code": "SB",
+    "combineCountycode": "SB +677",
+    "dial_code": "+677",
+    "name": "Solomon Islands"
+  },
+  {
+    "code": "SO",
+    "combineCountycode": "SO +252",
+    "dial_code": "+252",
+    "name": "Somalia"
+  },
+  {
+    "code": "ZA",
+    "combineCountycode": "ZA +27",
+    "dial_code": "+27",
+    "name": "South Africa"
+  },
+  {
+    "code": "SS",
+    "combineCountycode": "SS +211",
+    "dial_code": "+211",
+    "name": "South Sudan"
+  },
+  {
+    "code": "GS",
+    "combineCountycode": "GS +500",
+    "dial_code": "+500",
+    "name": "South Georgia and the South Sandwich Islands"
+  },
+  {
+    "code": "ES",
+    "combineCountycode": "ES +34",
+    "dial_code": "+34",
+    "name": "Spain"
+  },
+  {
+    "code": "LK",
+    "combineCountycode": "LK +94",
+    "dial_code": "+94",
+    "name": "Sri Lanka"
+  },
+  {
+    "code": "SD",
+    "combineCountycode": "SD +249",
+    "dial_code": "+249",
+    "name": "Sudan"
+  },
+  {
+    "code": "SR",
+    "combineCountycode": "SR +597",
+    "dial_code": "+597",
+    "name": "Suriname"
+  },
+  {
+    "code": "SJ",
+    "combineCountycode": "SJ +47",
+    "dial_code": "+47",
+    "name": "Svalbard and Jan Mayen"
+  },
+  {
+    "code": "SZ",
+    "combineCountycode": "SZ +268",
+    "dial_code": "+268",
+    "name": "Swaziland"
+  },
+  {
+    "code": "SE",
+    "combineCountycode": "SE +46",
+    "dial_code": "+46",
+    "name": "Sweden"
+  },
+  {
+    "code": "CH",
+    "combineCountycode": "CH +41",
+    "dial_code": "+41",
+    "name": "Switzerland"
+  },
+  {
+    "code": "SY",
+    "combineCountycode": "SY +963",
+    "dial_code": "+963",
+    "name": "Syrian Arab Republic"
+  },
+  {
+    "code": "TW",
+    "combineCountycode": "TW +886",
+    "dial_code": "+886",
+    "name": "Taiwan"
+  },
+  {
+    "code": "TJ",
+    "combineCountycode": "TJ +992",
+    "dial_code": "+992",
+    "name": "Tajikistan"
+  },
+  {
+    "code": "TZ",
+    "combineCountycode": "TZ +255",
+    "dial_code": "+255",
+    "name": "Tanzania, United Republic of Tanzania"
+  },
+  {
+    "code": "TH",
+    "combineCountycode": "TH +66",
+    "dial_code": "+66",
+    "name": "Thailand"
+  },
+  {
+    "code": "TL",
+    "combineCountycode": "TL +670",
+    "dial_code": "+670",
+    "name": "Timor-Leste"
+  },
+  {
+    "code": "TG",
+    "combineCountycode": "TG +228",
+    "dial_code": "+228",
+    "name": "Togo"
+  },
+  {
+    "code": "TK",
+    "combineCountycode": "TK +690",
+    "dial_code": "+690",
+    "name": "Tokelau"
+  },
+  {
+    "code": "TO",
+    "combineCountycode": "TO +676",
+    "dial_code": "+676",
+    "name": "Tonga"
+  },
+  {
+    "code": "TT",
+    "combineCountycode": "TT +1868",
+    "dial_code": "+1868",
+    "name": "Trinidad and Tobago"
+  },
+  {
+    "code": "TN",
+    "combineCountycode": "TN +216",
+    "dial_code": "+216",
+    "name": "Tunisia"
+  },
+  {
+    "code": "TR",
+    "combineCountycode": "TR +90",
+    "dial_code": "+90",
+    "name": "Turkey"
+  },
+  {
+    "code": "TM",
+    "combineCountycode": "TM +993",
+    "dial_code": "+993",
+    "name": "Turkmenistan"
+  },
+  {
+    "code": "TC",
+    "combineCountycode": "TC +1649",
+    "dial_code": "+1649",
+    "name": "Turks and Caicos Islands"
+  },
+  {
+    "code": "TV",
+    "combineCountycode": "TV +688",
+    "dial_code": "+688",
+    "name": "Tuvalu"
+  },
+  {
+    "code": "UG",
+    "combineCountycode": "UG +256",
+    "dial_code": "+256",
+    "name": "Uganda"
+  },
+  {
+    "code": "UA",
+    "combineCountycode": "UA +380",
+    "dial_code": "+380",
+    "name": "Ukraine"
+  },
+  {
+    "code": "AE",
+    "combineCountycode": "AE +971",
+    "dial_code": "+971",
+    "name": "United Arab Emirates"
+  },
+  {
+    "code": "GB",
+    "combineCountycode": "GB +44",
+    "dial_code": "+44",
+    "name": "United Kingdom"
+  },
+  {
+    "code": "US",
+    "combineCountycode": "US +1",
+    "dial_code": "+1",
+    "name": "United States"
+  },
+  {
+    "code": "UY",
+    "combineCountycode": "UY +598",
+    "dial_code": "+598",
+    "name": "Uruguay"
+  },
+  {
+    "code": "UZ",
+    "combineCountycode": "UZ +998",
+    "dial_code": "+998",
+    "name": "Uzbekistan"
+  },
+  {
+    "code": "VU",
+    "combineCountycode": "VU +678",
+    "dial_code": "+678",
+    "name": "Vanuatu"
+  },
+  {
+    "code": "VE",
+    "combineCountycode": "VE +58",
+    "dial_code": "+58",
+    "name": "Venezuela, Bolivarian Republic of Venezuela"
+  },
+  {
+    "code": "VN",
+    "combineCountycode": "VN +84",
+    "dial_code": "+84",
+    "name": "Vietnam"
+  },
+  {
+    "code": "VG",
+    "combineCountycode": "VG +1284",
+    "dial_code": "+1284",
+    "name": "Virgin Islands, British"
+  },
+  {
+    "code": "VI",
+    "combineCountycode": "VI +1340",
+    "dial_code": "+1340",
+    "name": "Virgin Islands, U.S."
+  },
+  {
+    "code": "WF",
+    "combineCountycode": "WF +681",
+    "dial_code": "+681",
+    "name": "Wallis and Futuna"
+  },
+  {
+    "code": "YE",
+    "combineCountycode": "YE +967",
+    "dial_code": "+967",
+    "name": "Yemen"
+  },
+  {
+    "code": "ZM",
+    "combineCountycode": "ZM +260",
+    "dial_code": "+260",
+    "name": "Zambia"
+  },
+  {
+    "code": "ZW",
+    "combineCountycode": "ZW +263",
+    "dial_code": "+263",
+    "name": "Zimbabwe"
+  }
+]

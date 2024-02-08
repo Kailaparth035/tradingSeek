@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "307099534870",
+    "project_id": "tradingseek-3a85a",
+    "storage_bucket": "tradingseek-3a85a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307099534870:android:f90cfc44411b7444195737",
+        "android_client_info": {
+          "package_name": "com.Tradingseek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307099534870-th856sq6mofiguhpudob55f9kf7973pg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Tradingseek",
+            "certificate_hash": "813f8acdc6410aaf3edfe88d52ff0dd9f951d4c4"
+          }
+        },
+        {
+          "client_id": "307099534870-a75jmsv8mj2fcrqmq9mp5q8p4era1dss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAGW8BS161u-WnEcnJSt7XtSrgk8C6GwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307099534870-a75jmsv8mj2fcrqmq9mp5q8p4era1dss.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "307099534870-3e24r18854fhvi74119657kk3rffpjh0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TradingSeek"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307099534870:android:9b8451ba2653d187195737",
+        "android_client_info": {
+          "package_name": "com.tradingseek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307099534870-a75jmsv8mj2fcrqmq9mp5q8p4era1dss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAGW8BS161u-WnEcnJSt7XtSrgk8C6GwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307099534870-a75jmsv8mj2fcrqmq9mp5q8p4era1dss.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "307099534870-3e24r18854fhvi74119657kk3rffpjh0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TradingSeek"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307099534870:android:b9a133de8330857a195737",
+        "android_client_info": {
+          "package_name": "net.tradingseek.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307099534870-teeov4un07lhmr2lb1o3l7le9d3527p7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.tradingseek.app",
+            "certificate_hash": "479296e6f2056c4fc1a16e401e8ff1227216096d"
+          }
+        },
+        {
+          "client_id": "307099534870-a75jmsv8mj2fcrqmq9mp5q8p4era1dss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAGW8BS161u-WnEcnJSt7XtSrgk8C6GwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307099534870-a75jmsv8mj2fcrqmq9mp5q8p4era1dss.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "307099534870-3e24r18854fhvi74119657kk3rffpjh0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TradingSeek"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
